@@ -1,0 +1,161 @@
+/* link.css - 为特定网站链接添加图标 */
+
+/* GitHub */
+.vp-doc a[href*="github.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/github.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Gitee */
+.vp-doc a[href*="gitee.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/gitee.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Python */
+.vp-doc a[href*="python.org"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/python.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Kotlin */
+.vp-doc a[href*="kotlinlang.org"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/kotlin.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Dart */
+.vp-doc a[href*="dart.dev"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/dart.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Node.js */
+.vp-doc a[href*="nodejs.org"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/nodejs.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* TouchFish */
+.vp-doc a[href*="touchfish.xin"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/touchfish.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* 洛谷 */
+.vp-doc a[href*="luogu.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/luogu.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* QQ */
+.vp-doc a[href*="qq.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/qq.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}
+
+/* Bilibili */
+.vp-doc a[href*="bilibili.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-image: url('/svg/bilibili.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  position: relative;
+  top: -0.05em;
+}

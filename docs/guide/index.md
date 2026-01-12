@@ -18,7 +18,7 @@ title: 指南
 - **开源** - 代码开放，欢迎改进
 
 
-主仓库：[GitHub 2044-space-elevator/TouchFish](https://github.com/2044-space-elevator/TouchFish)
+主仓库：[GitHub 2044-space-elevator/TouchFish](https://github.com/2044-space-elevator/TouchFish) 
 
 ---
 
@@ -66,6 +66,3 @@ CSC 的特点：
 :::
 
 ---
-
-
-
